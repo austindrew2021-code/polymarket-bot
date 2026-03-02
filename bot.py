@@ -26,7 +26,7 @@ from datetime import datetime, timezone
 #              <- ONLY EDIT THIS SECTION ->
 # ============================================================
 
-STAGE    = 1      # 1 | 2 | 3 | 4  -- which strategy level
+STAGE    = 4      # 1 | 2 | 3 | 4  -- which strategy level
 DRY_RUN  = True   # True = simulate (no real money) | False = live
 
 # Starting capital:
