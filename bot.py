@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 # ============================================================
 #              <- ONLY EDIT THIS SECTION ->
 # ============================================================
-STAGE    = 1      # 1=baseline | 2=conservative | 3=aggressive | 4=moon🚀
+STAGE    = 4      # 1=baseline | 2=conservative | 3=aggressive | 4=moon🚀
 DRY_RUN  = True   # True=simulate | False=real money
 
 STARTING_CAPITAL = 12.0  # mock balance (or real wallet balance when live)
